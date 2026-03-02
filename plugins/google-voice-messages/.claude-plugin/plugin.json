@@ -1,9 +1,0 @@
-{
-  "name": "google-voice-messages",
-  "version": "1.0.0",
-  "description": "OPD recruitment messaging via Google Voice browser automation and Airtable pipeline tracking",
-  "author": {
-    "name": "Carlos Lluberes"
-  },
-  "keywords": ["google-voice", "recruitment", "airtable", "browser-automation", "sms"]
-}

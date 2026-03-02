@@ -1,0 +1,9 @@
+{
+  "name": "openphone-texting",
+  "version": "2.0.0",
+  "description": "OPD recruitment messaging via OpenPhone API and Airtable pipeline tracking",
+  "author": {
+    "name": "Carlos Lluberes"
+  },
+  "keywords": ["openphone", "recruitment", "airtable", "sms", "texting"]
+}
