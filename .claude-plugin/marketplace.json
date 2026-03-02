@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "carlos-plugins",
+  "description": "Carlos's personal Claude Code plugins",
+  "owner": {
+    "name": "Carlos Lluberes"
+  },
+  "plugins": [
+    {
+      "name": "google-voice-messages",
+      "description": "OPD recruitment messaging via Google Voice browser automation and Airtable pipeline tracking",
+      "version": "1.0.0",
+      "author": {
+        "name": "Carlos Lluberes"
+      },
+      "source": "./plugins/google-voice-messages",
+      "category": "productivity"
+    }
+  ]
+}
