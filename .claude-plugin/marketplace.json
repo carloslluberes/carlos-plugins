@@ -7,13 +7,13 @@
   },
   "plugins": [
     {
-      "name": "google-voice-messages",
-      "description": "OPD recruitment messaging via Google Voice browser automation and Airtable pipeline tracking",
-      "version": "1.0.0",
+      "name": "openphone-texting",
+      "description": "OPD recruitment messaging via OpenPhone API and Airtable pipeline tracking",
+      "version": "2.0.0",
       "author": {
         "name": "Carlos Lluberes"
       },
-      "source": "./plugins/google-voice-messages",
+      "source": "./plugins/openphone-texting",
       "category": "productivity"
     }
   ]
