@@ -1,0 +1,9 @@
+{
+  "name": "medallia-responder",
+  "version": "1.0.0",
+  "description": "Automated Medallia customer complaint response via RDP automation",
+  "author": {
+    "name": "Carlos Lluberes"
+  },
+  "keywords": ["medallia", "complaints", "customer-service", "walmart", "rdp", "automation"]
+}
